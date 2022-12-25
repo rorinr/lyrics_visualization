@@ -1,5 +1,5 @@
 # lyrics_visualization
-Choose a song from genius.com and create your individual visualization of the lyric. The result is an image where each pixel represents one word:
+Choose a song from genius.com and create your individual visualization of the song-text. The result is an image where each pixel represents one word:
 
 <td><img width="500px" src="https://github.com/rorinr/lyrics_visualization/blob/main/Already%20Dead.png"></td>
 
