@@ -1,7 +1,7 @@
 # lyrics_visualization
 Choose a song lyric from genius.com and create your individual visualization of the song lyric. The result is an image where each pixel represents one word:
 
-![Already Dead](Already Dead.png)
+![Already Dead]([Already Dead.png](https://github.com/rorinr/lyrics_visualization/blob/master/Already%20Dead.png))
 
 But how to read it without a dictionary?! 
 
