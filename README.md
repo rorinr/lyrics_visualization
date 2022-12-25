@@ -1,8 +1,9 @@
 # lyrics_visualization
-Choose a song lyric from genius.com and create your individual visualization of the song lyric. The result is an image where each pixel represents one word:
+Choose a song from genius.com and create your individual visualization of the lyric. The result is an image where each pixel represents one word:
 
 <td><img width="500px" src="https://github.com/rorinr/lyrics_visualization/blob/master/Already%20Dead.png"></td>
-But how to read it without a dictionary?! 
+
+__But how to read it without a dictionary?!__
 
 <td><img width="500px" src="https://github.com/rorinr/lyrics_visualization/blob/master/Already%20Dead%20Dictionary.png"></td>
 
